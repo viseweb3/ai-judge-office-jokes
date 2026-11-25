@@ -9,14 +9,14 @@
 // wording is, and how fresh the take is.
 //
 // The joke: the office printer has been broken for three years — which
-// makes it the only thing in the building that actually sticks to its job
-// description. The twist is that HR still won't promote it: the one
+// makes it the only employee in the building that actually sticks to its
+// job description. The twist is that HR still won't promote it: the one
 // employee doing exactly what it was hired to do gets nothing, while
 // everyone else gets promoted for doing less. Bureaucracy, in one line.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const JOKE =
-  "Our office printer has been 'out of order' for three years — the only thing in this building with a job description it actually follows, and HR still won't promote it.";
+  "Our office printer has been 'out of order' for three years — the only employee in this building with a job description it actually follows, and HR still won't promote it.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", JOKE, "utf8");

@@ -8,9 +8,9 @@ One funny line about office life, written for make.fun's "Make the AI Judge Laug
 
 ## The line
 
-> Our office printer has been 'out of order' for three years — the only thing in this building with a job description it actually follows, and HR still won't promote it.
+> Our office printer has been 'out of order' for three years — the only employee in this building with a job description it actually follows, and HR still won't promote it.
 
-(167 characters. The printer has been broken for three years, which makes it the only thing in the building that actually sticks to its job description — and HR still won't promote it. The one "employee" doing exactly what it was hired to do gets nothing.)
+(170 characters. The printer has been broken for three years, which makes it the only thing in the building that actually sticks to its job description — and HR still won't promote it. The one "employee" doing exactly what it was hired to do gets nothing.)
 
 ## Run it
 
